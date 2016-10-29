@@ -1,0 +1,6 @@
+{
+  "name": "Cifrar Mensajes ",
+  "tagline": "Android APP",
+  "body": "### Esta aplicación te permite cifrar texto con una contraseña de 8 dígitos. \r\nPuedes cifrar tus mensajes y compartirlos cifrados para tener mas seguridad al ser enviados. Cifrar tus contraseñas con una misma contraseña maestra para que no olvides ninguna.\r\n\r\n### Para cifrar un mensaje:\r\n\r\nIntroduce el mensaje que quieres cifrar y una contraseña de 8 dígitos, pulsa el botón cifrar mensaje y te aparecerá el mensaje cifrado, copia este mensaje y compártelo por correo, las redes sociales, mensajes de texto. Este mensaje solo lo podrás descifrar con la contraseña con la que se ha cifrado.\r\n\r\n### Para descifrar el mensaje:\r\n\r\nSelecciona la pestaña descifrar, escribe el mensaje cifrado y la contraseña, pulsa el botón descifrar mensaje y si la contraseña es la correcta, tu mensaje original aparecerá en la pantalla.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
